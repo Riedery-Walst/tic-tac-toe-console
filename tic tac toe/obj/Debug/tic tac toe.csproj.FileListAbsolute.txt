@@ -1,0 +1,7 @@
+C:\Users\vladi\RiderProjects\tic tac toe\tic tac toe\bin\Debug\tic_tac_toe.exe
+C:\Users\vladi\RiderProjects\tic tac toe\tic tac toe\bin\Debug\tic_tac_toe.pdb
+C:\Users\vladi\RiderProjects\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csproj.AssemblyReference.cache
+C:\Users\vladi\RiderProjects\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladi\RiderProjects\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csproj.CoreCompileInputs.cache
+C:\Users\vladi\RiderProjects\tic tac toe\tic tac toe\obj\Debug\tic_tac_toe.exe
+C:\Users\vladi\RiderProjects\tic tac toe\tic tac toe\obj\Debug\tic_tac_toe.pdb
